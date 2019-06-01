@@ -60,7 +60,7 @@ main {
 
             &:hover {
                 color: $secondary-color; 
-                @include eastOut(); 
+                @include easeOut(); 
             }
         }
     }
